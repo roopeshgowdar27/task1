@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.quiz-container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#question {
+    font-size: 18px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px;
+}
+
+#feedback {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+#score {
+    font-size: 20px;
+}
